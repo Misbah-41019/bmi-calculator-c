@@ -15,4 +15,4 @@ You will need a C compiler (like `gcc`) installed on your system.
 ### Compilation
 Open your terminal and run the following command:
 ```bash
-gcc main.c -o bmi_calculator
+gcc bmi_calculator.c -o bmi_calculator
